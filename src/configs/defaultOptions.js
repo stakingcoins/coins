@@ -35,7 +35,7 @@ export default {
   prices: {
     header: true,         // show top coins in header
     chart: true,          // show live price chart in list
-    market: 'USDT',       // default selected market token
+    market: 'BTC',       // default selected market token
     sort: 'marketVolume', // price data to sort by
     order: 'desc',        // price sort direction
     limit: 20,            // how many entries to show
